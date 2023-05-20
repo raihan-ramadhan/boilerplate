@@ -1,1 +1,5 @@
-my reusable template
+## Getting Started
+
+```
+code npm install
+```
